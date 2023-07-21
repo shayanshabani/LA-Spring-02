@@ -1,2 +1,1 @@
-# LA-Spring-02
-Linear Algebra Course in Spring 2023
+Just to save practical home-works and the final project of the linear algebra course
